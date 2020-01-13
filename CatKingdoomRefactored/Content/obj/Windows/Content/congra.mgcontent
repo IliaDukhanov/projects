@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/File.spritefont</SourceFile>
+  <SourceTime>2018-12-01T18:45:11.5015351+03:00</SourceTime>
+  <DestFile>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/bin/Windows/Content/congra.xnb</DestFile>
+  <DestTime>2019-10-23T21:38:21.3793311+03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-09-24T00:55:52+03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-09-24T00:55:52+03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

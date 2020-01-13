@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/iliad/Documents/visual studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/buildingPlaced.wav</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2010/Projects/CatKingdoom/CatKingdoom/Content/menu_cursor.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2010/Projects/CatKingdoom/CatKingdoom/Content/menu_button.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2010/Projects/CatKingdoom/CatKingdoom/Content/background.jpg</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2010/Projects/CatKingdoom/CatKingdoom/Content/menu_cursor_tap.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2010/Projects/CatKingdoom/CatKingdoom/Content/Grass.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2010/Projects/CatKingdoom/CatKingdoom/Content/sprite.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2010/Projects/CatKingdoom/CatKingdoom/Content/enemySprite.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/background.jpg</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/backMusic.mp3</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/boot.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/buildingPlaced.wav</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/coin.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/createground.jpg</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/enemyAtack.wav</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/enemyDeath.wav</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/enemySprite.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/File.spritefont</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/gameOver.jpg</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/Grass.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/heart.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/heroAtack.wav</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/heroDeath.wav</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/invisiblewall.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/Kingdoom.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/market.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/menu_button.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/menu_button2.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/menu_button3.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/menu_cursor.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/menu_cursor_tap.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/menuMusic.mp3</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/payment.wav</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/rally.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/rock.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/salute.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/saluteBackground.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/shield.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/sprite.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/sword.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/time.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/tree.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/wall.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/warhouse.png</File>
+    <File>C:/Users/iliad/Documents/Visual Studio 2017/Projects/CatKingdoomRefactored/CatKingdoomRefactored/Content/winScreen.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>congra</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
